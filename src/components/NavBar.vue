@@ -2,7 +2,7 @@
   <div class="wrapper">
     <b-navbar toggleable="lg" type="light" variant="faded">
       <b-navbar-brand v-scroll-reveal="{ delay: 300 }" href="/"
-        >Faizan Mohammed</b-navbar-brand
+        >EZ-GO Trucking</b-navbar-brand
       >
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>

@@ -10,7 +10,7 @@
               data-aos-duration="2000"
             >
             <br/> <br/>
-              <img class="phone-align-image" src="../assets/running-design.jpeg" alt="" />
+              <img class="phone-align-image" src="../assets/about-us-sm.jpg" alt="" />
             </div>
           </div>
           <div class="col-md-6 col-sm-6">
@@ -19,15 +19,11 @@
               data-aos="fade-left"
               data-aos-duration="2000"
             >
-              <h2 class="phone-align-text">A little more about me...</h2>
+              <h2 class="phone-align-text">A little more about Us...</h2>
               <p class="phone-align-text">
-                Apart from being a Software developer, I am also a ISSA
-                Certified Elite trainer and Nutritionist. I have trained
-                numerous clients all over the world. <br /><br />I do online
-                trainings and provide free meal plans according to your goals.
-                Reach out to me to chat about both the Worlds.
+                We, at Elite Transportation, have been working our hardest to earn our reputation in the industry over the last few years. Since founding, we have expanded to be able to deliver not just to all 50 states, but also to Canada and Mexico, making us the best option for North American Delivery.
                 <br/>
-                <p class="phone-align-text">Funfact: I have more experience as a Fitness trainer than as a Software developer.</p>
+                <p class="phone-align-text">We’ve come to offer all services form LTL-shipping up to truckloads of trailers, to be able to accommodate for every possible service you are looking for.</p>
               </p>
               <br />
               <div class="phone-align-btn">
@@ -48,17 +44,14 @@
               data-aos="fade-right"
               data-aos-duration="2000"
             >
-              <h2>Latest Update - As a Software developer</h2>
+              <h2>Shipping Consultation</h2>
               <p>
-                Currently I am working fulltime, developing web application for Department of Transportation and freelancing for a Medical transporation company.<br/>
-                My high level stack that I use frequently...
+                The communication in our company is unmatched, so you have full control over what gets decided, our management and staff will then help you to take all the necessary steps towards your dream of becoming everyone’s reality. If you are unsure if you need LTL- or FLT-shipping, our team of experts will assist you in making the best-informed decision for your business needs.
                 <br/> <br/>
                 <ul class="b">
-                  <li>Spring Boot</li>
-                  <li>Javascript/VueJS</li>
-                  <li>Azure</li>
-                  <li>REDIS</li>
-                  <li>GCP/Firebase</li>
+                  <li>Brainstorming</li>
+                  <li>Approaching</li>
+                  <li>Adjusting</li>
               </ul>
               </p>
             </div>
@@ -69,12 +62,13 @@
               data-aos="fade-left"
               data-aos-duration="2000"
             >
-              <h2>As a Fitness trainer</h2>
+              <h2>Address</h2>
               <p>
-                Since the COVID-19, not only I had to reorganize my workout schedule but also the approach to workout as whole. 
-                I am an advocate of Time under tension and Hypertrophy, so I am biased towards in-gym training. How'ver COVID-19 forced me to start bodyweight training and Calisthenics and I must say I was missing out on lot of things...
+                Unit 1007, Apt 2350 <br/>
+                Brichmount & Shepherd intersection <br/>
+                Toronto, ON 
               </p>
-              <img class="animated-gif" src="../assets/Cert_Logo.gif" alt="">
+              <img class="animated-gif" src="" alt="">
             </div>
           </div>
         </div>

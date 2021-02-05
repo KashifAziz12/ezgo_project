@@ -9,7 +9,7 @@
         >
           <img
             class="phone-align-image"
-            src="../assets/home-image.jpeg"
+            src="../assets/trucks-coming.jpg"
             alt="IMAGE"
           />
         </div>
@@ -24,14 +24,12 @@
             Welcome
           </h1>
           <p>
-            Hi! My name is Faizan Mohammed. I am a Fullstack Software developer
-            and a freelancer. I have diverse set of skills ranging from Java,
-            Javascript & Frameworks to Cloud technologies and more.. <br />
+            We are a logistics company specializing in various types of freight
+            shipments (LTL up to truckloads) across The USA, Mexico and Canada.
             <br />
-            I primarily use Java, VueJS and GCP/Firebase for the Fullstack
-            development depending on the project requirements. I am always open
-            to learning new technologies, Please download my resume to learn
-            more about my Stack.
+            <br />
+            We help our clients to the success they deserve by improving every
+            aspect of the supply chain.
           </p>
         </div>
         <br />
@@ -40,7 +38,7 @@
             class="btn btn-primary"
             data-aos="fade-up"
             data-aos-duration="2000"
-            >My Resume</b-button
+            >Schedule a Ride</b-button
           >
         </div>
       </div>

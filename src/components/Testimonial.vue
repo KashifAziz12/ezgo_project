@@ -2,10 +2,12 @@
   <section id="testimonial">
     <div class="container" data-aos="fade-down" data-aos-duration="2000">
       <p>
-        "Learn Knowledge, understand it and benefit from it; do not study it in
-        order to decorate yourself with it, for if you live long you will likely
-        see a time when knowledge will be used for beautifcation like a man
-        beautifies himself with his garments."
+        "We cover the entire continent of North America, Canada and Mexico. Our
+        goal is to ensure that your business has the support it needs to grow
+        beyond the borders of the States. With our professional LTL-shipping
+        service, you receive expert advice and competitive rates that we offer
+        to maximize your cost savings while still maintaining all quality
+        standards needed."
       </p>
       <p class="customer">-Ibn Al-Mubarak</p>
     </div>
